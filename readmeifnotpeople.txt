@@ -20,6 +20,16 @@ goto composereferentpoit defcomposesequence odeifexecuteadress adress sizeofbyte
 deriveddefcomposeprrdetermineddef def,resuktline.x resultcomposeodeinspacecodeorline
 goto..x{readmyoredytmiifreadthistexrandomcode}
 if existincodedefortext=predeterminedspacecompose ode or command.writecode then writevode referent pointorifreferentpointdef def=omg or write ode ifnotexistpredetrrminedinspacepredeterminedecomposepredeterminedorandomdeforesukt
+x=5
+dim x as y =line.x
+a=x
+def =ifexistdefexistexecutecideorderdefinresult  line.x a=5
+x=def
+exist.rndcode.line.1=x
+derivediffromdefexistcomposefunction sdk.addfunction nmae rnd  result=x def=y
+derivedufincolectionexistdefcomposedef sdk.rnd defexist resultcomposedef or ifresultsdk
+
+
 
 
 
