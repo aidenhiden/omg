@@ -37,7 +37,7 @@ sdk.x=
 derivedifnotexustpredeterminedinspacederivedef thisdocument or thispc or this network or  rnd.wwww
 result
 def=ifinresuktdefderivedcodecomposethisdef result
-
+deri edifincodenotexistpredetermineddefinitionexecutenameinstructionorfunctionifexistderivedifnotexisthisdefithisspaceorrandomspaceorresultrnddunctionorfunctiongrabrndwebpagei result
 
 
 
