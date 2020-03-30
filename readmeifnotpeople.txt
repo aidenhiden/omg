@@ -29,6 +29,10 @@ exist.rndcode.line.1=x
 derivediffromdefexistcomposefunction sdk.addfunction nmae rnd  result=x def=y
 derivedufincolectionexistdefcomposedef sdk.rnd defexist resultcomposedef or ifresultsdk
 
+btree command.sdk  collection.sdk verifiifexistfunctioncomposedef def function 
+=line.x
+
+derivedefifcomposeresultordef line.x result
 
 
 
