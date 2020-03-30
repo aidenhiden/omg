@@ -33,6 +33,10 @@ btree command.sdk  collection.sdk verifiifexistfunctioncomposedef def function
 =line.x
 
 derivedefifcomposeresultordef line.x result
+sdk.x=
+derivedifnotexustpredeterminedinspacederivedef thisdocument or thispc or this network or  rnd.wwww
+result
+def=ifinresuktdefderivedcodecomposethisdef result
 
 
 
