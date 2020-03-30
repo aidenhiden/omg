@@ -6,3 +6,21 @@ console.writeline(" omg=functionderivedcodeofexistinsignificant omg line.123")
 console.writeline(write.text rndcode sizeof110Bline1234)
 consoke.writeline(ide.writerndcodeinline123 tdayandexecute)
 consoke.writeline(firstcodeisicemachine locationgaragedebilmicrosftideinstock10$barelifupsell200biliondokarintwosecondnextdaybuy200milionequal)
+console.writeline(console.writecode derivedcodecomposecideorconsolegivenincosokecodecomposecodea dcomma dwritecode)
+consoke.writeline(if namefunction=console.writeline then execute goto x=functionderivedspaceexecute odeifinvaluedefinpostexecute x=goto)
+
+
+execute x 
+dim codex as sdk.x
+x=readthiscodeifinlinedefreadlineormovlineinresult goto
+code.adress.x.txt=goto or line x
+if functionnmae =goto then ifpredeterminedresuktderivedadressexecuteifthisvodecomposeresukt adress=btree result
+
+goto composereferentpoit defcomposesequence odeifexecuteadress adress sizeofbyte,rnd=line.x
+deriveddefcomposeprrdetermineddef def,resuktline.x resultcomposeodeinspacecodeorline
+goto..x{readmyoredytmiifreadthistexrandomcode}
+if existincodedefortext=predeterminedspacecompose ode or command.writecode then writevode referent pointorifreferentpointdef def=omg or write ode ifnotexistpredetrrminedinspacepredeterminedecomposepredeterminedorandomdeforesukt
+
+
+
+
